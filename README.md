@@ -1,5 +1,6 @@
 # Funiture
 The following is a website for Furniture that has not been fixed because it is still under construction
+
  => YOU ARE ALLOWED
 
       1. You are allowed to use for your personal and commercial purposes.
