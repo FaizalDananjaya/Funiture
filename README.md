@@ -23,4 +23,6 @@ The following is a website for Furniture that has not been fixed because it is s
       3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
 
 Template Name: Furni
+
 Template Author: Frozen King
+
