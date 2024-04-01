@@ -16,7 +16,7 @@ The following is a website for Furniture that has not been fixed because it is s
 
  => YOU ARE NOT ALLOWED
 
-      1. You are not allowed to remove the author’s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
+      1. You are not allowed to remove the author’s credit link/attribution link/backlink without purchasing Credit Removal License
 
       2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
 
