@@ -1,28 +1,78 @@
-# Funiture
-The following is a website for Furniture that has not been fixed because it is still under construction
+# Funiture – Sistem Manajemen Furniture  
 
- => YOU ARE ALLOWED
+Funiture adalah aplikasi web untuk manajemen perusahaan furniture, dirancang agar perusahaan dapat mengelola produk, stok, pelanggan, dan pesanan secara mudah dan efisien.
 
-      1. You are allowed to use for your personal and commercial purposes.
+---
 
-      2. You are allowed to modify/customize however you like.
+## 🏢 Profil Perusahaan (Dummy untuk Localhost)  
+Nama perusahaan: **PT Kayu Indah Perkasa**  
+Alamat: Jl. Merpati No. 18, Jakarta Barat, DKI Jakarta 11430  
+Telepon: +6281390098876  
+Email: kayuindah.perkasa@gmail.com  
 
-      3. You are allowed to convert/port for use for any CMS.
+---
 
-      4. You are allowed to share/distribute under the HTML Codex brand name.
+## ✨ Fitur Utama  
 
-      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
+- Manajemen produk: tambah, ubah, hapus produk furniture  
+- Pengelolaan stok gudang: masuk/keluar barang, update stok  
+- Sistem pesanan: pelanggan dapat memesan produk  
+- Manajemen pelanggan: data pelanggan disimpan dan bisa diedit  
+- Dashboard: ringkasan stok, pesanan, produk terlaris  
+- Autentikasi pengguna: role admin dan staff  
 
+---
 
- => YOU ARE NOT ALLOWED
+## 🛠️ Teknologi yang Digunakan  
 
-      1. You are not allowed to remove the author’s credit link/attribution link/backlink without purchasing Credit Removal License
+Misalnya (ubah sesuai dengan apa yang kamu pakai):  
+- Backend: PHP + CodeIgniter  
+- Database: MySQL / MariaDB  
+- Frontend: HTML, CSS, JavaScript, Bootstrap  
+- Libraries tambahan: TCPDF untuk invoice, jQuery  
 
-      2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
+---
 
-      3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
+## 👥 User Default  
 
-Template Name: Furni
+**Admin**  
+- Username: `admin`  
+- Password: `admin`  
 
-Template Author: Frozen King
+**Staff**  
+- Username: `staff`  
+- Password: `staffpassword`  
 
+---
+
+## ⚙️ Cara Instalasi & Setup  
+
+1. Clone repository  
+   ```bash
+   git clone https://github.com/FaizalDananjaya/Funiture.git
+   cd Funiture
+
+    Ubah nama folder (jika perlu) sesuai keinginan proyekmu
+
+    Import database (file .sql yang tersedia) ke MySQL / MariaDB
+
+    Sesuaikan file config/database.php (jika CodeIgniter) agar terhubung ke database lokalmu
+
+    Jalankan aplikasi melalui server lokal (misalnya XAMPP / WAMP) dengan URL seperti:
+
+    http://localhost/funiture
+
+📝 Catatan Khusus
+
+    Jika muncul error pada fitur invoice (PDF), pastikan library TCPDF terbaru telah diletakkan di folder application/libraries/tcpdf. Kamu bisa mendownloadnya dari:
+    https://github.com/tecnickcom/TCPDF
+
+    Jika meng-clone atau mendownload, pastikan struktur folder sudah benar agar aplikasi berjalan normal.
+
+🚀 Pengembangan & Kontribusi
+
+    Proyek ini terbuka untuk perbaikan UI/UX, fitur tambahan, dan optimasi
+
+    Kamu bisa membuat branch baru untuk fitur, lalu ajukan Pull Request
+
+    Dokumentasi lebih lengkap akan menyusul sesuai pengembangan
