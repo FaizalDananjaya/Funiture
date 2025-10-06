@@ -1,0 +1,5 @@
+- [x] Remove comment block from Tampilan Awal/index.html
+- [x] Remove comment block from Tampilan Awal/contact.html
+- [x] Remove comment block from Tampilan Awal/checkout.html
+- [x] Remove comment block from Tampilan Awal/cart.html
+- [x] Remove comment block from Tampilan Awal/blog.html
