@@ -4,7 +4,7 @@ Funiture adalah aplikasi web untuk manajemen perusahaan furniture, dirancang aga
 
 ---
 
-## 🏢 Profil Perusahaan (Dummy untuk Localhost)  
+## 🏢 Profil Perusahaan
 Nama perusahaan: **PT Kayu Indah Perkasa**  
 Alamat: Jl. Merpati No. 18, Jakarta Barat, DKI Jakarta 11430  
 Telepon: +6281390098876  
